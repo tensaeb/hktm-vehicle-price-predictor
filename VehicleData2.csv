@@ -1,0 +1,882 @@
+Make,Model,Year,Transmission,Fuel,Condition, Price 
+Toyota,Highlander Gle,2023,Automatic,Hybrid,Used,11000000
+Toyota,Landcruiser Vx,2012,Automatic,Diesel,Used,11000000
+Toyota,Rav4,2022,Automatic,Hybrid,Used,11000000
+Toyota,Rav4,2023,Automatic,Hybrid,New,11000000
+Hyundai,Santa Fe,2023,Automatic,Hybrid,New,11000000
+Hyundai,Santa Fe,2022,Automatic,Hybrid,New,10600000
+Hyundai,Santa Fe,2023,Automatic,Hybrid,New,10600000
+Toyota,Fortuner,2021,Automatic,Petrol,Used,10500000
+Toyota,Land Cruiser,2017,Automatic,Diesel,Used,10500000
+Toyota,Rav4,2024,Automatic,Hybrid,New,10500000
+Toyota,Highlander,2022,Automatic,Hybrid,Used,10400000
+Toyota,Rav4,2024,Automatic,Hybrid,New,10300000
+Toyota,Rav4,2023,Automatic,Hybrid,New,10100000
+Toyota,Hilux,2020,Automatic,Diesel,Used,10000000
+Toyota,Tacoma,2018,Automatic,Petrol,Used,10000000
+Toyota,Fortuner,2021,Automatic,Petrol,Used,9500000
+Toyota,Hilux,2022,Automatic,Diesel,Used,9500000
+Toyota,Hilux Revo,2020,Automatic,Diesel,Used,9500000
+Toyota,Rav4,2022,Automatic,Petrol,Used,9500000
+Toyota,Rav4,2022,Automatic,Petrol,Used,9500000
+Hyundai,Santa Fe,2023,Automatic,Hybrid,Used,9500000
+Hyundai,Tucson,2022,Automatic,Hybrid,New,9500000
+Toyota,Invincible,2023,Automatic,Diesel,New,9300000
+Toyota,Hilux Revo,2018,Automatic,Diesel,Used,8800000
+Toyota,Rav4,2022,Automatic,Petrol,New,8700000
+Toyota,Rav4,2021,Automatic,Petrol,Used,8600000
+Toyota,High Roof,2023,Automatic,Diesel,New,8500000
+Toyota,Hilux Revo,2020,Manual,Diesel,Used,8500000
+Toyota,Land Cruiser,2018,Manual,Diesel,Used,8500000
+Toyota,Landcruiser Mark 2,2019,Manual,Diesel,Used,8500000
+Toyota,Rav4,2022,Automatic,Petrol,Used,8500000
+Toyota,Rav4,2021,Automatic,Petrol,Used,8500000
+Toyota,Landcruiser Long Base,2019,Manual,Diesel,Used,8400000
+Hyundai,Santa Fe,2021,Automatic,Hybrid,Used,8400000
+Toyota,Haice,2022,Automatic,Diesel,New,8350000
+Toyota,Chr,2024,Automatic,Hybrid,New,8200000
+Toyota,Rav4,2022,Automatic,Petrol,Used,8200000
+Toyota,Rav4,2022,Automatic,Petrol,Used,8100000
+Toyota,Land Cruiser,2010,Automatic,Diesel,Used,8000000
+Toyota,Landcruiser Prado,2014,Automatic,Diesel,Used,8000000
+Hyundai,Santa Fe,2021,Automatic,Hybrid,Used,8000000
+Toyota,Chr,2024,Automatic,Hybrid,New,7800000
+Toyota,Landcruiser V8 Gxr,2012,Automatic,Petrol,Used,7800000
+Toyota,Rav4,2020,Automatic,Petrol,Used,7800000
+Toyota,Corolla Cross,2023,Automatic,Hybrid,Used,7700000
+Toyota,Corolla Cross,2023,Automatic,Hybrid,New,7700000
+Toyota,Hilux,2021,Automatic,Diesel,Used,7700000
+Toyota,Hilux Invicible,2023,Automatic,Diesel,Used,7600000
+Toyota,Corolla Cross,2023,Automatic,Hybrid,Used,7500000
+Toyota,Corolla Cross,2022,Automatic,Petrol,Used,7500000
+Toyota,Corolla Cross,2023,Automatic,Hybrid,New,7500000
+BYD,Tang Ev 7,2024,Automatic,Electric,New,7500000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,7400000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,7300000
+Toyota,Invincible,2021,Automatic,Diesel,Used,7300000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,7200000
+Toyota,Corolla Cross,2023,Automatic,Hybrid,New,7200000
+BYD,Song Plus,2024,Automatic,Electric,New,7200000
+Toyota,Corolla Cross,2023,Automatic,Petrol,Used,7100000
+Toyota,Bz4X,2023,Automatic,Electric,New,7000000
+Toyota,Invincible,2021,Automatic,Diesel,Used,7000000
+BYD,Song Plus,2024,Automatic,Hybrid,New,7000000
+BYD,Tang Ev 7,2024,Automatic,Electric,New,7000000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6900000
+Hyundai,Tucson,2023,Automatic,Petrol,Used,6900000
+Volkswagen,ID 6,2024,Automatic,Electric,New,6850000
+Hyundai,Tucson H,2021,Automatic,Hybrid,New,6800000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6700000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6700000
+BYD,Song Plus,2024,Automatic,Hybrid,New,6700000
+Hyundai,Creta,2023,Automatic,Petrol,New,6700000
+Toyota,Frontlander,2024,Automatic,Hybrid,New,6650000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6600000
+Toyota,Hilux Double Cab,2013,Automatic,Petrol,Used,6600000
+Volkswagen,ID 6,2024,Automatic,Electric,New,6600000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6550000
+Toyota,Corolla Cross,2024,Automatic,Petrol,New,6500000
+Toyota,Frontlander,2024,Automatic,Hybrid,New,6500000
+Toyota,Rush,2023,Automatic,Petrol,New,6500000
+Hyundai,Creta,2023,Automatic,Petrol,Used,6500000
+Volkswagen,ID 6,2024,Automatic,Electric,New,6500000
+Toyota,Corolla Cross,2022,Automatic,Petrol,New,6450000
+Toyota,Bz4X,2024,Automatic,Electric,Used,6300000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6300000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6300000
+Hyundai,Tucson,2022,Automatic,Petrol,Used,6300000
+Toyota,Bz4X,2024,Automatic,Electric,New,6250000
+Toyota,Bz4X,2023,Automatic,Electric,New,6250000
+Hyundai,Tucson,2022,Automatic,Petrol,Used,6250000
+Hyundai,Creta,2023,Automatic,Petrol,Used,6250000
+Toyota,Land Cruiser,2008,Manual,Diesel,Used,6200000
+Toyota,Rav4,2018,Automatic,Petrol,Used,6200000
+Toyota,Corolla Cross,2024,Automatic,Hybrid,New,6100000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,6100000
+Hyundai,Tucson,2022,Automatic,Petrol,Used,6100000
+Toyota,Bz4X,2024,Automatic,Electric,New,6000000
+Toyota,Hilux,2012,Automatic,Diesel,Used,6000000
+Hyundai,Creta,2023,Automatic,Petrol,Used,6000000
+Toyota,Tucson,2021,Automatic,Petrol,Used,5950000
+Toyota,Bz4X,2023,Automatic,Electric,New,5900000
+Toyota,Bz4X,2024,Automatic,Electric,New,5850000
+Toyota,Bz4X,2023,Automatic,Electric,New,5850000
+Toyota,High Roof,2018,Manual,Diesel,Used,5850000
+Toyota,Bz4X,2023,Automatic,Electric,New,5800000
+Toyota,Bz4X,2024,Automatic,Electric,New,5800000
+Toyota,High Roof,2020,Manual,Diesel,Used,5800000
+Toyota,Rush,2023,Automatic,Petrol,Used,5800000
+Toyota,Rush,2022,Automatic,Petrol,Used,5800000
+Toyota,Rush,2022,Automatic,Petrol,Used,5800000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,5800000
+Hyundai,Creta,2023,Automatic,Petrol,Used,5800000
+Toyota,Revo King Cab,2018,Manual,Diesel,Used,5750000
+Toyota,Bz4X,2023,Automatic,Electric,Used,5700000
+Toyota,Corolla Cross,2024,Automatic,Petrol,New,5700000
+Toyota,Rush,2022,Automatic,Petrol,Used,5700000
+Toyota,Bz4X,2024,Automatic,Electric,Used,5600000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,5600000
+BYD,Song Plus,2024,Automatic,Electric,New,5600000
+Toyota,Rush,2023,Automatic,Petrol,Used,5550000
+Hyundai,Creta,2023,Automatic,Petrol,Used,5550000
+Toyota,Bz4X,2023,Automatic,Electric,New,5500000
+Toyota,Chr,2020,Automatic,Petrol,Used,5500000
+Toyota,Land Cruiser,2015,Manual,Diesel,Used,5500000
+Toyota,Land Cruiser,2010,Manual,Diesel,Used,5500000
+Toyota,Proace,2020,Manual,Diesel,Used,5500000
+Toyota,Rav4,2015,Automatic,Petrol,Used,5500000
+Toyota,Rav4,2015,Automatic,Petrol,Used,5500000
+Toyota,Rush,2023,Automatic,Petrol,Used,5500000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,5500000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,5500000
+Hyundai,Creta,2022,Automatic,Petrol,Used,5500000
+Jetour,Dashing,2023,Automatic,Petrol,Used,5500000
+Toyota,Bz4X,2023,Automatic,Electric,New,5450000
+Volkswagen,ID 6,2023,Automatic,Electric,New,5450000
+Toyota,Rush,2023,Automatic,Petrol,Used,5400000
+Toyota,Rush,2022,Automatic,Petrol,Used,5400000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,5400000
+Toyota,Bz4X,2023,Automatic,Petrol,New,5300000
+Toyota,Bz4X,2023,Automatic,Electric,New,5300000
+Toyota,Chr,2021,Automatic,Petrol,Used,5300000
+Toyota,Chr,2020,Automatic,Petrol,Used,5300000
+Toyota,Chr,2020,Automatic,Petrol,Used,5300000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,5300000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,5300000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,5300000
+Hyundai,Tucson,2021,Automatic,Hybrid,Used,5300000
+Toyota,Bz4X,2023,Automatic,Electric,New,5250000
+Hyundai,Tucson,2019,Automatic,Petrol,Used,5250000
+BYD,Song Plus,2024,Automatic,Electric,New,5250000
+Toyota,Bz4X,2023,Automatic,Electric,New,5200000
+Toyota,Rav4,2015,Automatic,Petrol,Used,5200000
+Toyota,Rush,2023,Automatic,Petrol,Used,5200000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,5200000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,5200000
+Jetour,Dashing,2023,Automatic,Petrol,Used,5200000
+BYD,Song Plus,2023,Automatic,Electric,New,5200000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,5190000
+Toyota,Corolla,2021,Automatic,Petrol,Used,5150000
+Toyota,Bz4X,2023,Automatic,Electric,New,5100000
+Toyota,Chr,2022,Automatic,Petrol,Used,5100000
+Toyota,Chr,2020,Automatic,Petrol,Used,5100000
+Toyota,Chr,2019,Automatic,Petrol,Used,5100000
+Toyota,Corolla,2024,Automatic,Hybrid,New,5100000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,5100000
+Hyundai,Tucson,2022,Automatic,Petrol,Used,5100000
+Toyota,Hilux,2020,Manual,Diesel,Used,5000000
+Hyundai,Tucson,2019,Automatic,Petrol,Used,5000000
+Jetour,Dashing,2023,Automatic,Petrol,Used,5000000
+Jetour,X90 Plus,2022,Automatic,Petrol,Used,5000000
+Mitsubishi,Airtrek Ev,2023,Automatic,Electric,New,5000000
+Mitsubishi,Airtrek Ev,2022,Automatic,Electric,New,5000000
+Toyota,Bz4X,2023,Automatic,Electric,Used,4950000
+Toyota,Bz4X,2023,Automatic,Electric,New,4950000
+Hyundai,Tucson,2019,Automatic,Petrol,Used,4950000
+Hyundai,Tucson,2019,Automatic,Petrol,Used,4950000
+Volkswagen,ID 4,2023,Automatic,Electric,Used,4950000
+Toyota,Chr,2019,Automatic,Petrol,Used,4900000
+Toyota,Rav4,2015,Automatic,Petrol,Used,4900000
+Hyundai,Creta,2020,Automatic,Petrol,Used,4900000
+Jetour,Dashing,2023,Automatic,Petrol,Used,4900000
+Jetour,Dashing,2023,Automatic,Petrol,Used,4900000
+Jetour,Dashing,2023,Automatic,Petrol,Used,4900000
+Jetour,X90 Plus,2022,Automatic,Petrol,Used,4900000
+Volkswagen,ID 4,2023,Automatic,Electric,Used,4900000
+Toyota,Rush,2021,Automatic,Petrol,Used,4850000
+Toyota,Rush,2021,Automatic,Petrol,Used,4850000
+Hyundai,Tucson,2021,Automatic,Petrol,Used,4850000
+Jetour,Dashing,2023,Automatic,Petrol,Used,4850000
+Mitsubishi,Airtrek Ev,2022,Automatic,Electric,New,4850000
+Toyota,Bz4X,2022,Automatic,Electric,Used,4800000
+Toyota,Bz4X,2022,Automatic,Electric,Used,4800000
+Toyota,Bz4X,2023,Automatic,Electric,New,4800000
+Toyota,Hilux,2017,Manual,Diesel,Used,4800000
+Toyota,Hilux,2005,Manual,Diesel,Used,4800000
+Toyota,Veloz,2023,Automatic,Petrol,Used,4800000
+BYD,Song Plus,2023,Automatic,Electric,Used,4800000
+Hyundai,Tucson,2019,Automatic,Petrol,Used,4800000
+Hyundai,Grand Starex,2020,Automatic,Diesel,Used,4800000
+Hyundai,Creta,2021,Automatic,Petrol,Used,4800000
+BYD,Song Plus,2024,Automatic,Electric,New,4800000
+Jetour,X70 Plus,2023,Automatic,Petrol,New,4800000
+Toyota,Bz4X,2023,Automatic,Electric,Used,4750000
+Toyota,Chr,2017,Automatic,Petrol,Used,4750000
+Jetour,X90,2022,Automatic,Petrol,Used,4750000
+Toyota,Bz4X,2023,Automatic,Electric,Used,4700000
+Toyota,Bz4X,2023,Automatic,Electric,New,4700000
+Toyota,Chr,2017,Automatic,Petrol,Used,4700000
+Hyundai,Creta,2019,Automatic,Petrol,Used,4700000
+Jetour,X90,2022,Automatic,Petrol,Used,4700000
+Toyota,Bz4X,2023,Automatic,Electric,Used,4650000
+Toyota,Bz4X,2023,Automatic,Electric,New,4650000
+Toyota,Chr,2017,Automatic,Petrol,Used,4650000
+Toyota,Chr,2017,Automatic,Petrol,Used,4650000
+Toyota,Chr,2017,Automatic,Petrol,Used,4650000
+Toyota,Bz3,2023,Automatic,Electric,New,4600000
+Toyota,Corolla,2020,Automatic,Petrol,Used,4600000
+Toyota,Corolla,2022,Automatic,Petrol,New,4600000
+Toyota,Raize,2022,Automatic,Petrol,New,4600000
+Toyota,Rav4,2015,Automatic,Petrol,Used,4600000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,4600000
+Toyota,Bz4X,2023,Automatic,Electric,Used,4550000
+Hyundai,Creta,2019,Automatic,Petrol,Used,4550000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,4550000
+Mitsubishi,Airtrek Ev,2023,Automatic,Electric,New,4550000
+Toyota,Chr,2017,Automatic,Petrol,Used,4500000
+Toyota,Landcruiser Prado,2007,Manual,Diesel,Used,4500000
+Toyota,Rav4,2012,Automatic,Petrol,Used,4500000
+Toyota,Rush,2021,Automatic,Petrol,Used,4500000
+Hyundai,H1,2020,Automatic,Petrol,Used,4500000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,4500000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,4500000
+Hyundai,Bayon,2022,Automatic,Petrol,Used,4500000
+Jetour,X70 Plus,2022,Automatic,Petrol,New,4500000
+Toyota,Bz4X,2023,Automatic,Electric,Used,4450000
+Jetour,X70 Plus,2023,Automatic,Petrol,Used,4450000
+Toyota,Raize,2022,Automatic,Petrol,Used,4400000
+Jetour,X70 Plus,2022,Automatic,Petrol,Used,4400000
+Toyota,Yaris,2020,Automatic,Petrol,Used,4400000
+Toyota,Hilux,2014,Manual,Diesel,Used,4350000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,4350000
+Toyota,Yaris,2020,Automatic,Petrol,Used,4350000
+Toyota,Bz4X,2023,Automatic,Electric,New,4300000
+Toyota,Corolla,2022,Automatic,Petrol,Used,4300000
+Toyota,Raize,2022,Automatic,Petrol,Used,4300000
+Toyota,Rav4,2012,Automatic,Petrol,Used,4300000
+Jetour,X70,2023,Automatic,Petrol,Used,4300000
+Jetour,X70,2022,Automatic,Petrol,Used,4300000
+Jetour,X70 Plus,2021,Manual,Petrol,Used,4300000
+Toyota,Dolphin,2008,Manual,Petrol,Used,4200000
+Toyota,Rav4,2012,Automatic,Petrol,Used,4200000
+Hyundai,Creta,2019,Automatic,Petrol,Used,4200000
+Hyundai,Tucson,2020,Automatic,Petrol,Used,4200000
+Jetour,X70 Plus,2023,Automatic,Petrol,Used,4200000
+Toyota,Rush,2019,Automatic,Petrol,Used,4200000
+Toyota,Yaris,2020,Automatic,Petrol,Used,4200000
+Toyota,Belta,2010,Automatic,Petrol,Used,4156940
+Toyota,Bz4X,2023,Automatic,Electric,Used,4156940
+Toyota,Bz4X,2023,Automatic,Electric,Used,4156940
+Toyota,Bz4X,2023,Automatic,Electric,New,4156940
+Toyota,Chr,2020,Automatic,Petrol,Used,4156940
+Toyota,Corolla,2004,Automatic,Petrol,Used,4156940
+Toyota,Fortuner,2017,Automatic,Diesel,Used,4156940
+Toyota,Haice,1998,Manual,Diesel,Used,4156940
+Hyundai,Avante,2017,Automatic,Petrol,Used,4156940
+Hyundai,Elantra,2021,Automatic,Petrol,Used,4156940
+Jetour,X70 Plus,2022,Automatic,Petrol,Used,4156940
+Volkswagen,ID 4,2024,Automatic,Electric,New,4156940
+Hyundai,Grand Starex,2020,Automatic,Diesel,Used,4150000
+Hyundai,Venue,2022,Automatic,Petrol,Used,4150000
+Jetour,X70 Plus,2022,Automatic,Petrol,Used,4150000
+Toyota,Hiace Van,2011,Manual,Diesel,Used,4100000
+Toyota,Hilux Double Cab,2013,Manual,Diesel,Used,4100000
+Toyota,Rav4,2012,Automatic,Petrol,Used,4100000
+Hyundai,Kona,2022,Automatic,Petrol,Used,4100000
+Jetour,X70 Plus,2023,Automatic,Petrol,Used,4100000
+Jetour,X70 Plus,2023,Automatic,Petrol,Used,4100000
+Toyota,Bz3,2024,Automatic,Electric,New,4050000
+Toyota,Hilux Vigo,2013,Manual,Diesel,Used,4050000
+BYD,Yuan Up,2024,Automatic,Electric,New,4050000
+Toyota,Raize,2021,Automatic,Petrol,Used,4000000
+Toyota,Rav4,2012,Automatic,Petrol,Used,4000000
+Hyundai,Creta,2016,Automatic,Petrol,Used,4000000
+Hyundai,Tucson,2018,Automatic,Petrol,Used,4000000
+Hyundai,Bayon,2021,Automatic,Petrol,Used,4000000
+Hyundai,Elantra,2021,Automatic,Petrol,Used,4000000
+Hyundai,Starex,2021,Automatic,Diesel,Used,4000000
+Jetour,X70 Plus,2023,Automatic,Petrol,Used,4000000
+Hyundai,Grand I10,2023,Automatic,Petrol,New,4000000
+Toyota,Yaris,2020,Automatic,Petrol,Used,4000000
+Toyota,Rav4,2011,Automatic,Petrol,Used,3990000
+Toyota,Haice,2014,Manual,Diesel,Used,3980000
+Hyundai,Avante,2020,Automatic,Petrol,Used,3975000
+Toyota,Bz3,2024,Automatic,Electric,New,3950000
+Toyota,Rav4,2011,Automatic,Petrol,Used,3950000
+BYD,Yuan,2024,Automatic,Electric,New,3950000
+Toyota,Corolla,2022,Automatic,Petrol,Used,3900000
+Toyota,Dolphin,2008,Manual,Diesel,Used,3900000
+Toyota,Hilux Vigo,2012,Manual,Diesel,Used,3900000
+Toyota,Raize,2022,Automatic,Petrol,Used,3900000
+Jetour,X70 Plus,2023,Automatic,Petrol,Used,3900000
+BYD,Yuan Up,2024,Automatic,Electric,New,3900000
+Toyota,Vigo King Cab,2012,Manual,Diesel,Used,3900000
+Hyundai,Tucson,2017,Automatic,Petrol,Used,3850000
+Hyundai,Tucson,2018,Automatic,Petrol,Used,3800000
+Hyundai,Bayon,2022,Automatic,Petrol,Used,3800000
+Hyundai,Sonata,2015,Automatic,Petrol,Used,3750000
+Hyundai,Avante,2017,Automatic,Petrol,Used,3750000
+Hyundai,Creta,2016,Automatic,Petrol,Used,3700000
+Hyundai,Creta,2017,Automatic,Petrol,Used,3700000
+Toyota,Tacoma,2016,Automatic,Petrol,Used,3700000
+Toyota,Raize,2022,Automatic,Petrol,Used,3650000
+Toyota,Hilux,2010,Manual,Diesel,Used,3600000
+Toyota,Izoa,2023,Automatic,Electric,Used,3600000
+Toyota,Land Cruiser Prado,2006,Manual,Diesel,Used,3600000
+Toyota,Rav4,2012,Automatic,Petrol,Used,3550000
+Hyundai,Grand I10,2022,Automatic,Petrol,Used,3550000
+Toyota,Hiace Super Gl,2007,Automatic,Diesel,Used,3500000
+Hyundai,Tucson,2019,Automatic,Petrol,Used,3500000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,3500000
+Toyota,Yaris,2016,Automatic,Petrol,Used,3500000
+Toyota,Hilux King Cab,2009,Manual,Diesel,Used,3400000
+Hyundai,Avante,2015,Automatic,Petrol,Used,3400000
+Hyundai,Avante,2016,Automatic,Petrol,Used,3400000
+Hyundai,Grand I10,2022,Automatic,Petrol,Used,3400000
+Toyota,Yaris Sedan,2014,Automatic,Petrol,Used,3400000
+BYD,E2,2024,Automatic,Electric,New,3350000
+Toyota,Yaris,2016,Automatic,Petrol,Used,3350000
+Toyota,Haice,2007,Automatic,Diesel,Used,3300000
+Toyota,High Roof,2013,Manual,Diesel,Used,3300000
+Hyundai,Avante,2014,Automatic,Petrol,Used,3300000
+Hyundai,Avante,2014,Automatic,Petrol,Used,3300000
+Hyundai,Avante,2015,Automatic,Petrol,Used,3300000
+BYD,E2,2024,Automatic,Electric,New,3300000
+Toyota,Rav4,2011,Automatic,Petrol,Used,3300000
+Toyota,Yaris,2014,Automatic,Petrol,Used,3300000
+Hyundai,Avante,2014,Automatic,Petrol,Used,3290000
+BYD,E2,2024,Automatic,Electric,New,3250000
+BYD,E2,2024,Automatic,Electric,New,3250000
+Toyota,Avanza,2013,Automatic,Petrol,Used,3200000
+Toyota,Haice,2008,Manual,Diesel,Used,3200000
+Hyundai,Avante,2014,Automatic,Petrol,Used,3200000
+Hyundai,Starex,2015,Automatic,Petrol,Used,3200000
+Hyundai,Grand I10,2021,Automatic,Petrol,Used,3200000
+BYD,E2,2024,Automatic,Electric,New,3200000
+Toyota,Yaris,2016,Automatic,Petrol,Used,3200000
+Suzuki,Dzire,2023,Automatic,Petrol,New,3180000
+Toyota,I10,2021,Automatic,Petrol,Used,3175000
+Toyota,Prado,2000,Automatic,Diesel,Used,3150000
+Hyundai,Grand I10,2021,Automatic,Petrol,Used,3150000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,3150000
+BYD,E2,2024,Automatic,Electric,New,3150000
+Toyota,Yaris,2014,Automatic,Petrol,Used,3150000
+Hyundai,Avante,2014,Automatic,Petrol,Used,3100000
+Hyundai,Starex,2019,Automatic,Diesel,Used,3100000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,3100000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,3100000
+Suzuki,Swift,2022,Automatic,Petrol,Used,3100000
+Suzuki,Swift,2022,Automatic,Petrol,Used,3100000
+BYD,E2,2023,Automatic,Electric,New,3100000
+Toyota,Rav4,2008,Manual,Petrol,Used,3100000
+Toyota,Rav4,2007,Automatic,Petrol,Used,3100000
+Toyota,Yaris,2015,Automatic,Petrol,Used,3100000
+Hyundai,Elantra,2015,Automatic,Petrol,Used,3050000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,3050000
+Toyota,Haice,2007,Automatic,Diesel,Used,3000000
+Toyota,Hilux King Cab,2008,Manual,Diesel,Used,3000000
+Mitsubishi,Attrage,2020,Automatic,Petrol,Used,3000000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,3000000
+Hyundai,Avante,2011,Automatic,Petrol,Used,3000000
+Hyundai,Avante,2013,Automatic,Petrol,Used,3000000
+Hyundai,Elentra,2014,Automatic,Petrol,Used,3000000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,3000000
+Suzuki,Swift,2022,Automatic,Petrol,Used,3000000
+Suzuki,Swift,2022,Automatic,Petrol,Used,3000000
+Toyota,Rav4,2009,Automatic,Petrol,Used,3000000
+Toyota,Rav4,2006,Automatic,Petrol,Used,3000000
+Toyota,Yaris,2014,Automatic,Petrol,Used,3000000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2995000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2980000
+Toyota,Hilux,2007,Manual,Diesel,Used,2970000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2950000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2950000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2950000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2950000
+Toyota,Yaris,2013,Automatic,Petrol,Used,2950000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2930000
+Toyota,Hiace Dolphin,2004,Manual,Diesel,Used,2900000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,2900000
+Hyundai,Accent,2013,Manual,Petrol,Used,2900000
+Hyundai,Avante,2013,Automatic,Petrol,Used,2900000
+Hyundai,Accent,2014,Automatic,Petrol,Used,2900000
+Hyundai,Starex,2014,Automatic,Diesel,Used,2900000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2900000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2900000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2900000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2900000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2900000
+Toyota,Yaris,2015,Automatic,Petrol,Used,2900000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2880000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2880000
+Jetour,Tiggo,2022,Automatic,Petrol,Used,2870000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,2850000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,2850000
+Hyundai,Avante,2014,Automatic,Petrol,Used,2850000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2850000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2850000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2850000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2850000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2850000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2850000
+Toyota,Rav4,2007,Automatic,Petrol,Used,2850000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2800000
+Toyota,Corolla,2006,Manual,Petrol,Used,2800000
+Toyota,Haice,2013,Manual,Diesel,Used,2800000
+Toyota,Haice,2007,Automatic,Diesel,Used,2800000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,2800000
+Hyundai,Avante,2012,Automatic,Petrol,Used,2800000
+Hyundai,Avante,2012,Automatic,Petrol,Used,2800000
+Hyundai,Grand I10,2021,Automatic,Petrol,Used,2800000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2800000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2800000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2800000
+Suzuki,Swift,2023,Automatic,Petrol,Used,2800000
+Suzuki,Swift,2023,Automatic,Petrol,Used,2800000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2800000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2800000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2800000
+Toyota,Rav4,2006,Automatic,Petrol,Used,2800000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2780000
+Toyota,Camry,2011,Automatic,Petrol,Used,2760000
+Hyundai,Veloster,2017,Automatic,Petrol,Used,2760000
+Toyota,Corolla,2015,Automatic,Petrol,Used,2750000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Hyundai,Avante,2011,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2750000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2750000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2750000
+Suzuki,Swift,2021,Automatic,Petrol,Used,2750000
+Toyota,Rav4,2006,Automatic,Petrol,Used,2750000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2700000
+Toyota,Corolla,2004,Automatic,Petrol,Used,2700000
+Toyota,Land Cruiser,2001,Manual,Diesel,Used,2700000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,2700000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2700000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2700000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2700000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2700000
+Suzuki,Dzire,2020,Automatic,Petrol,Used,2700000
+Hyundai,Elentra,2012,Automatic,Petrol,Used,2700000
+Hyundai,Elantra,2013,Automatic,Petrol,Used,2700000
+Hyundai,Veloster,2013,Automatic,Petrol,Used,2700000
+Hyundai,Atoz,2022,Automatic,Petrol,Used,2700000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2700000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2700000
+Toyota,Tacoma,2008,Manual,Petrol,Used,2700000
+Mitsubishi,Attrage,2021,Automatic,Petrol,Used,2690000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2650000
+Mitsubishi,Attrage,2020,Automatic,Petrol,Used,2650000
+Suzuki,Celario,2022,Automatic,Petrol,Used,2650000
+Suzuki,Celario,2022,Automatic,Petrol,Used,2650000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2650000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2650000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2650000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2650000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2650000
+Hyundai,Avante,2011,Automatic,Petrol,Used,2650000
+Hyundai,Starex,2015,Automatic,Diesel,Used,2650000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2650000
+Suzuki,Swift,2021,Automatic,Petrol,Used,2650000
+Toyota,Yaris,2007,Automatic,Petrol,Used,2650000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2600000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2600000
+Toyota,Corolla,2006,Automatic,Petrol,Used,2600000
+Toyota,Corolla,2005,Manual,Petrol,Used,2600000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2600000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2600000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2600000
+Hyundai,Elantra,2011,Automatic,Petrol,Used,2600000
+Hyundai,Accent,2012,Automatic,Petrol,Used,2600000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2600000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2600000
+Suzuki,Swift,2021,Automatic,Petrol,Used,2600000
+BYD,Seagull,2023,Automatic,Electric,New,2600000
+Toyota,Yaris,2012,Automatic,Petrol,Used,2600000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2550000
+Toyota,Corolla,2005,Automatic,Petrol,Used,2550000
+Toyota,Corolla,2004,Automatic,Petrol,Used,2550000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2550000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2550000
+Suzuki,Swift,2022,Automatic,Petrol,Used,2550000
+BYD,Seagull,2024,Automatic,Electric,New,2550000
+Hyundai,Atoz,2022,Automatic,Petrol,Used,2530000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2525000
+Toyota,Agya,2020,Automatic,Petrol,Used,2500000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2500000
+Toyota,Corolla,2006,Automatic,Petrol,Used,2500000
+Toyota,Corolla,2005,Automatic,Petrol,Used,2500000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2500000
+Toyota,Dolphin Half Van,2001,Manual,Diesel,Used,2500000
+Toyota,Haice,2001,Manual,Diesel,Used,2500000
+Toyota,Hiace Dolphin,2005,Manual,Diesel,Used,2500000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2500000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2500000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2500000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2500000
+Hyundai,Elentra,2012,Automatic,Petrol,Used,2500000
+Hyundai,Accent,2013,Automatic,Petrol,Used,2500000
+Hyundai,Elantra,2013,Automatic,Petrol,Used,2500000
+Hyundai,Grand Starex,2014,Automatic,Diesel,Used,2500000
+Hyundai,I10,2018,Automatic,Petrol,Used,2500000
+Mitsubishi,Attrage,2022,Automatic,Petrol,Used,2500000
+Suzuki,Swift,2021,Automatic,Petrol,Used,2500000
+BYD,Seagull,2024,Automatic,Electric,New,2500000
+Toyota,Rav4,2005,Automatic,Petrol,Used,2500000
+Toyota,Rav4,2005,Manual,Petrol,Used,2500000
+Toyota,Rav4,2003,Manual,Petrol,Used,2500000
+Toyota,Yaris,2013,Automatic,Petrol,Used,2500000
+Toyota,Yaris,2012,Automatic,Petrol,Used,2500000
+Toyota,Yaris,2012,Automatic,Petrol,Used,2500000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2495000
+Toyota,Corolla,2001,Automatic,Petrol,Used,2480000
+Hyundai,Atoz,2021,Automatic,Petrol,Used,2480000
+Toyota,Yaris,2008,Automatic,Petrol,Used,2480000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2450000
+Toyota,Haice,1997,Manual,Diesel,Used,2450000
+Suzuki,Celario,2021,Manual,Petrol,Used,2450000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2450000
+Suzuki,Swift,2021,Automatic,Petrol,Used,2450000
+Toyota,Rav4,2005,Manual,Petrol,Used,2450000
+Toyota,Corolla,2004,Automatic,Petrol,Used,2400000
+Toyota,Corolla,2003,Manual,Petrol,Used,2400000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2400000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2400000
+Hyundai,Atoz,2021,Automatic,Petrol,Used,2400000
+Toyota,Rav4,2005,Manual,Petrol,Used,2400000
+Toyota,Rav4,2004,Automatic,Petrol,Used,2400000
+Toyota,Rav4,2002,Automatic,Petrol,Used,2400000
+Toyota,Yaris,2013,Automatic,Petrol,Used,2400000
+Toyota,Yaris Belta,2010,Automatic,Petrol,Used,2400000
+Toyota,Yaris,2007,Automatic,Petrol,Used,2380000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2350000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2350000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2350000
+Suzuki,Celario,2022,Automatic,Petrol,Used,2350000
+Suzuki,Celario,2022,Automatic,Petrol,Used,2350000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2350000
+Suzuki,Dzire,2020,Automatic,Petrol,Used,2350000
+BYD,Seagull,2024,Automatic,Electric,New,2350000
+Toyota,Yaris,2013,Automatic,Petrol,Used,2350000
+Toyota,Yaris,2012,Manual,Petrol,Used,2350000
+Toyota,Yaris,2012,Manual,Petrol,Used,2350000
+Toyota,Yaris,2009,Automatic,Petrol,Used,2350000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2300000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2300000
+Toyota,Haice,2008,Manual,Diesel,Used,2300000
+Suzuki,Celario,2022,Automatic,Petrol,Used,2300000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2300000
+Suzuki,Dzire,2022,Automatic,Petrol,Used,2300000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2300000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2300000
+Suzuki,Dzire,2021,Automatic,Petrol,Used,2300000
+Hyundai,Accent,2013,Automatic,Petrol,Used,2300000
+Hyundai,Veloster,2016,Automatic,Petrol,Used,2300000
+Hyundai,Atoz,2021,Automatic,Petrol,Used,2300000
+Hyundai,Atoz,2021,Automatic,Petrol,Used,2300000
+BYD,Seagull,2023,Automatic,Electric,New,2300000
+BYD,Seagull,2023,Automatic,Electric,New,2300000
+Toyota,Platz,2005,Automatic,Petrol,Used,2300000
+Toyota,Rav4,2001,Automatic,Petrol,Used,2300000
+Toyota,Vitz,2012,Automatic,Petrol,Used,2300000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2300000
+Toyota,Yaris,2014,Automatic,Petrol,Used,2300000
+Toyota,Yaris,2006,Automatic,Petrol,Used,2300000
+Toyota,Belta,2008,Automatic,Petrol,Used,2250000
+Toyota,Corolla,2012,Automatic,Petrol,Used,2250000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2250000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2250000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2250000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2250000
+Suzuki,Celario,2022,Automatic,Petrol,Used,2250000
+Suzuki,Celario,2020,Automatic,Petrol,Used,2250000
+Hyundai,Atoz,2021,Automatic,Petrol,Used,2250000
+Hyundai,Atoz,2021,Automatic,Petrol,Used,2250000
+Toyota,Platz,2005,Automatic,Petrol,Used,2250000
+Toyota,Platz,2005,Automatic,Petrol,Used,2250000
+Toyota,Yaris,2014,Automatic,Petrol,Used,2250000
+Toyota,Yaris,2010,Automatic,Petrol,Used,2250000
+Toyota,Belta,2007,Automatic,Petrol,Used,2200000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2200000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2200000
+Toyota,Corolla,2002,Automatic,Petrol,Used,2200000
+Toyota,Haice,2001,Manual,Diesel,Used,2200000
+Toyota,Hilux,2001,Manual,Diesel,Used,2200000
+Mitsubishi,Attrage,2016,Automatic,Petrol,Used,2200000
+Suzuki,Celario,2021,Automatic,Petrol,Used,2200000
+Suzuki,Celario,2020,Automatic,Petrol,Used,2200000
+Mitsubishi,Pajero,2002,Manual,Diesel,Used,2200000
+Toyota,Platz,2005,Automatic,Petrol,Used,2200000
+Toyota,Yaris,2010,Automatic,Petrol,Used,2200000
+Toyota,Yaris,2007,Automatic,Petrol,Used,2200000
+Toyota,Corolla,2006,Manual,Petrol,Used,2150000
+Hyundai,I20,2011,Manual,Petrol,Used,2150000
+Hyundai,H,2016,Manual,Diesel,Used,2150000
+Toyota,Platz,2001,Automatic,Petrol,Used,2150000
+Toyota,Belta,2010,Automatic,Petrol,Used,2100000
+Toyota,Corolla,2006,Manual,Petrol,Used,2100000
+Toyota,Corolla,2005,Automatic,Petrol,Used,2100000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2100000
+Toyota,Corolla,2002,Automatic,Petrol,Used,2100000
+Toyota,Corolla,2001,Automatic,Petrol,Used,2100000
+Suzuki,Eco,2023,Manual,Petrol,Used,2100000
+Suzuki,Spresso,2021,Manual,Petrol,Used,2100000
+Suzuki,Spresso,2021,Manual,Petrol,Used,2100000
+Toyota,Platz,2005,Automatic,Petrol,Used,2100000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2100000
+Toyota,Yaris,2010,Automatic,Petrol,Used,2100000
+Toyota,Yaris,2010,Automatic,Petrol,Used,2100000
+Toyota,Yaris,2008,Manual,Petrol,Used,2100000
+Toyota,Yaris,2008,Automatic,Petrol,Used,2100000
+Toyota,Yaris,2007,Automatic,Petrol,Used,2100000
+Toyota,Yaris,2006,Automatic,Petrol,Used,2100000
+Toyota,Corolla,2007,Automatic,Petrol,Used,2095000
+Toyota,Corolla,2003,Automatic,Petrol,Used,2050000
+Hyundai,I20,2011,Manual,Petrol,Used,2050000
+Toyota,Platz,2001,Automatic,Petrol,Used,2050000
+Toyota,Yaris,2013,Automatic,Petrol,Used,2050000
+Toyota,Yaris,2006,Automatic,Petrol,Used,2050000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2030000
+Toyota,Corolla,2007,Manual,Petrol,Used,2000000
+Suzuki,Spresso,2021,Manual,Petrol,Used,2000000
+Toyota,Hilux Surf,2001,Manual,Diesel,Used,2000000
+Toyota,Land Cruiser,1991,Manual,Diesel,Used,2000000
+Toyota,Platz,2005,Automatic,Petrol,Used,2000000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2000000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2000000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2000000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2000000
+Toyota,Vitz,2004,Automatic,Petrol,Used,2000000
+Toyota,Yaris,2008,Automatic,Petrol,Used,2000000
+Toyota,Yaris,2007,Automatic,Petrol,Used,2000000
+Toyota,Yaris,2007,Automatic,Petrol,Used,2000000
+Toyota,Vitz,2004,Automatic,Petrol,Used,1985000
+Toyota,Vitz,2004,Automatic,Petrol,Used,1980000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1980000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1980000
+Toyota,Vitz,2004,Automatic,Petrol,Used,1970000
+Suzuki,Eco,2024,Manual,Petrol,Used,1950000
+Suzuki,Eco,2024,Automatic,Petrol,Used,1950000
+Toyota,Haice,2003,Manual,Diesel,Used,1950000
+Toyota,Haice,1998,Manual,Diesel,Used,1950000
+Toyota,Platz,2005,Automatic,Petrol,Used,1950000
+Toyota,Tacoma,2007,Automatic,Petrol,Used,1950000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1950000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1950000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1950000
+Toyota,Yaris,2008,Automatic,Petrol,Used,1950000
+Toyota,Yaris Compact,2010,Automatic,Petrol,Used,1950000
+Toyota,Vitz,2004,Automatic,Petrol,Used,1920000
+Toyota,Agya,2020,Automatic,Petrol,Used,1900000
+Toyota,Belta,2005,Automatic,Petrol,Used,1900000
+Toyota,Corolla,2005,Manual,Petrol,Used,1900000
+Toyota,Corolla,2003,Automatic,Petrol,Used,1900000
+Toyota,Corolla,2003,Manual,Petrol,Used,1900000
+Suzuki,Dzire,2020,Manual,Petrol,Used,1900000
+Suzuki,Spresso,2020,Manual,Petrol,Used,1900000
+Mitsubishi,L200,2007,Manual,Diesel,Used,1900000
+Toyota,Tacoma,2008,Manual,Petrol,Used,1900000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1900000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1900000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1900000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1900000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1900000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1900000
+Toyota,Yaris,2011,Automatic,Petrol,Used,1900000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1900000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1900000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1900000
+Toyota,Yaris,2006,Manual,Petrol,Used,1900000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1900000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1890000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1880000
+Toyota,Vitz,2003,Automatic,Petrol,Used,1870000
+Toyota,Belta,2010,Automatic,Petrol,Used,1850000
+Toyota,Corolla,2007,Automatic,Petrol,Used,1850000
+Toyota,Corolla,2005,Manual,Petrol,Used,1850000
+Suzuki,Eco,2023,Manual,Petrol,Used,1850000
+Suzuki,Spresso,2020,Manual,Petrol,Used,1850000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1850000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1850000
+Toyota,Yaris,2010,Automatic,Electric,Used,1850000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1850000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1850000
+Toyota,Yaris,2009,Automatic,Petrol,Used,1850000
+Toyota,Yaris,2009,Manual,Petrol,Used,1850000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1825000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1820000
+Toyota,Land Cruiser,1992,Manual,Diesel,Used,1800000
+Toyota,Rav4,2002,Manual,Petrol,Used,1800000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1800000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1800000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1800000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2010,Manual,Petrol,Used,1800000
+Toyota,Yaris,2009,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2008,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2008,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1800000
+Toyota,Yaris,2001,Manual,Petrol,Used,1800000
+Toyota,Vitz,2002,Automatic,Petrol,Used,1790000
+Toyota,Vitz,2003,Automatic,Petrol,Used,1780000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1780000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1780000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1780000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1780000
+Hyundai,Getz,2011,Manual,Petrol,Used,1750000
+Toyota,Platz,2001,Automatic,Petrol,Used,1750000
+Toyota,Vitz,2004,Manual,Petrol,Used,1750000
+Toyota,Vitz,2003,Automatic,Petrol,Used,1750000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1750000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1750000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1750000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1750000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1750000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1750000
+Toyota,Yaris,2008,Automatic,Petrol,Used,1750000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1750000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1750000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1750000
+Toyota,Yaris Compact,2008,Manual,Petrol,Used,1750000
+Toyota,Landcrusier 1Hz,1997,Manual,Diesel,Used,1740000
+Toyota,Corolla,2008,Manual,Petrol,Used,1700000
+Toyota,Land Cruiser,1990,Manual,Diesel,Used,1700000
+Toyota,Vitz,2004,Manual,Petrol,Used,1700000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1700000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1700000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1700000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1700000
+Toyota,Yaris,2009,Manual,Petrol,Used,1700000
+Toyota,Yaris,2008,Manual,Petrol,Used,1700000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1700000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1700000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1680000
+Toyota,Vitz,2007,Automatic,Petrol,Used,1670000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1670000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1670000
+Toyota,Yaris,2004,Manual,Petrol,Used,1670000
+Toyota,Belta,2005,Automatic,Petrol,Used,1650000
+Toyota,Vitz,2003,Automatic,Petrol,Used,1650000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1650000
+Toyota,Vitz,2001,Manual,Petrol,Used,1650000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1650000
+Toyota,Yaris,2008,Automatic,Petrol,Used,1650000
+Toyota,Yaris,2008,Automatic,Petrol,Used,1650000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1650000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1650000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1650000
+Toyota,Yaris,2006,Manual,Petrol,Used,1650000
+Toyota,Vitz,2000,Automatic,Petrol,Used,1630000
+Toyota,Vitz,2000,Automatic,Petrol,Used,1610000
+Mitsubishi,L200,2003,Manual,Diesel,Used,1600000
+Mitsubishi,Nativa,2005,Manual,Diesel,Used,1600000
+Toyota,Haice,2008,Manual,Diesel,Used,1600000
+Toyota,Rav4,1998,Automatic,Petrol,Used,1600000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1600000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1600000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1600000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1600000
+Toyota,Yaris,2004,Manual,Petrol,Used,1600000
+Toyota,Yaris,2002,Manual,Petrol,Used,1600000
+Toyota,Yaris,2001,Manual,Petrol,Used,1600000
+Toyota,Yaris,2001,Manual,Petrol,Used,1600000
+Toyota,Yaris,1999,Manual,Petrol,Used,1600000
+Toyota,Yaris,2008,Automatic,Petrol,Used,1580000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1575000
+Toyota,Vitz,2005,Automatic,Petrol,Used,1550000
+Toyota,Yaris,2007,Automatic,Petrol,Used,1550000
+Toyota,Yaris,2005,Automatic,Petrol,Used,1550000
+Toyota,Land Cruiser,1991,Manual,Diesel,Used,1500000
+Toyota,Pickup,1987,Manual,Diesel,Used,1500000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1500000
+Toyota,Vitz,1998,Automatic,Petrol,Used,1500000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1500000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1500000
+Toyota,Yaris,2005,Automatic,Petrol,Used,1500000
+Toyota,Yaris,2005,Automatic,Petrol,Used,1500000
+Toyota,Vitz,2000,Automatic,Petrol,Used,1490000
+Toyota,Yarus,2002,Automatic,Petrol,Used,1450000
+Hyundai,Getz,2004,Manual,Petrol,Used,1420000
+Mitsubishi,L200,1997,Manual,Diesel,Used,1400000
+Volkswagen,Polo,2002,Automatic,Petrol,Used,1400000
+Toyota,Yaris,2010,Automatic,Petrol,Used,1400000
+Toyota,Corolla,1994,Manual,Petrol,Used,1350000
+Toyota,Vitz,2001,Automatic,Petrol,Used,1350000
+Toyota,Yaris,2006,Manual,Petrol,Used,1350000
+Toyota,Yaris,2006,Automatic,Petrol,Used,1350000
+Toyota,Yaris,1999,Manual,Petrol,Used,1350000
+Suzuki,Every,2003,Automatic,Petrol,Used,1300000
+Hyundai,Atoz,2001,Manual,Petrol,Used,1200000
+Toyota,Rav4,1998,Manual,Petrol,Used,1200000
+Toyota,Surf,1994,Manual,Diesel,Used,1200000
+Hyundai,Atoz,2002,Automatic,Petrol,Used,1180000
+Toyota,Carina E,1997,Manual,Petrol,Used,1150000
+Hyundai,Atoz,1998,Manual,Petrol,Used,1050000
+Hyundai,Atoz,1998,Automatic,Petrol,Used,1050000
+Mitsubishi,L200,1999,Manual,Diesel,Used,1050000
+Toyota,Carina E,1995,Manual,Petrol,Used,1050000
+Toyota,Corolla,1992,Manual,Petrol,Used,1050000
+Toyota,Corolla Dx,1991,Manual,Petrol,Used,1050000
+Toyota,Corolla,1997,Automatic,Petrol,Used,1000000
+Toyota,Corolla,1992,Manual,Petrol,Used,1000000
+Toyota,Pickup,1998,Manual,Diesel,Used,1000000
+Volkswagen,Polo,2004,Manual,Petrol,Used,980000
+Toyota,Hatchback,1991,Manual,Petrol,Used,970000
+Volkswagen,Polo,2003,Manual,Petrol,Used,950000
+Toyota,Corolla,1991,Manual,Petrol,Used,950000
+Toyota,Corolla,1991,Manual,Petrol,Used,950000
+Toyota,Hatchback,1990,Manual,Petrol,Used,950000
+Hyundai,Atoz,1997,Manual,Petrol,Used,920000
+Hyundai,Atoz,1999,Manual,Petrol,Used,920000
+Toyota,Hatchback,1990,Manual,Petrol,Used,920000
+Volkswagen,Parati,2004,Manual,Petrol,Used,900000
+Volkswagen,Parati,2004,Manual,Petrol,Used,870000
+Hyundai,Atoz,1997,Manual,Petrol,Used,850000
+Hyundai,Atoz,1998,Manual,Petrol,Used,850000
+Hyundai,Atoz,1998,Manual,Petrol,Used,850000
+Volkswagen,Parati,2004,Manual,Petrol,Used,850000
+Toyota,Corolla,2005,Automatic,Petrol,Used,850000
+Toyota,Corolla,1992,Manual,Petrol,Used,850000
+Toyota,Corolla,1992,Manual,Petrol,Used,850000
+Toyota,Corolla,1991,Manual,Petrol,Used,850000
+Toyota,Corolla Dx,1989,Manual,Petrol,Used,850000
+Toyota,Corolla Dx,1986,Manual,Petrol,Used,850000
+Hyundai,Atoz,1998,Manual,Petrol,Used,825000
+Hyundai,Atoz,1999,Manual,Petrol,Used,800000
+Toyota,Carina E,1993,Manual,Petrol,Used,800000
+Toyota,Corolla Dx,1985,Manual,Petrol,Used,800000
+Toyota,Hatchback,1991,Manual,Petrol,Used,800000
+Toyota,Corolla Dx,1985,Manual,Petrol,Used,795000
+Hyundai,Atoz,1998,Manual,Petrol,Used,750000
+Hyundai,Atoz,1998,Manual,Petrol,Used,750000
+Toyota,Starlet,1991,Manual,Petrol,Used,750000
+Hyundai,Atoz,1997,Manual,Petrol,Used,720000
+Hyundai,Atoz,1997,Manual,Petrol,Used,700000
+Jetour,QQ,2021,Manual,Petrol,Used,700000
+Toyota,Corolla,1987,Manual,Petrol,Used,700000
+Toyota,Corolla Dx,1985,Manual,Petrol,Used,695000
+Hyundai,Atoz,1997,Manual,Petrol,Used,680000
+Toyota,Corolla,1991,Manual,Petrol,Used,680000
+Hyundai,Atoz,1998,Manual,Petrol,Used,670000
+Hyundai,Atoz,1998,Manual,Petrol,Used,670000
+Volkswagen,Caddy,2002,Manual,Petrol,Used,650000
+Volkswagen,Caddy,1999,Manual,Diesel,Used,650000
+Volkswagen,Caddy,1998,Manual,Diesel,Used,650000
+Hyundai,Atoz,1997,Manual,Petrol,Used,650000
+Hyundai,Atoz,1997,Manual,Petrol,Used,650000
+Hyundai,Atoz,1998,Manual,Petrol,Used,650000
+Volkswagen,Polo,1997,Manual,Petrol,Used,650000
+Volkswagen,Polo,1997,Manual,Petrol,Used,650000
+Toyota,Carina 2,1987,Manual,Petrol,Used,650000
+Toyota,Liftback,1986,Manual,Petrol,Used,625000
+Volkswagen,Caddy,1999,Manual,Diesel,Used,600000
+Volkswagen,Golf,2005,Manual,Petrol,Used,600000
+Volkswagen,Golf,1997,Manual,Petrol,Used,600000
+Toyota,Corolla,1986,Manual,Petrol,Used,600000
+Toyota,Corolla Dx,1986,Manual,Petrol,Used,600000
+Volkswagen,Caddy,2001,Manual,Petrol,Used,580000
+Toyota,Corolla,1985,Manual,Petrol,Used,560000
