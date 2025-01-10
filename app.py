@@ -110,7 +110,8 @@ if st.session_state.predicted_price_usd is not None:
     price_category_etb = categorize_price(st.session_state.predicted_price_etb)
     price_category_usd = categorize_price_usd(st.session_state.predicted_price_usd)
     
-    st.write(f"Predicted Price Range: {price_category_etb} ({price_category_usd})")
+    # Display the predicted price range consistently
+    st.markdown(f"<h5>Predicted Price Range: {price_category_etb} ({price_category_usd})</h5>", unsafe_allow_html=True)
     st.write(f"Model Accuracy: 93.80%")  # Hardcoded accuracy
 
     # Custom Exchange Rate Input
@@ -118,4 +119,7 @@ if st.session_state.predicted_price_usd is not None:
 
     if st.button("Recalculate with Custom Exchange Rate"):
         custom_predicted_price_etb = st.session_state.predicted_price_usd * custom_etb_to_usd
-        st.write(f"Price in ETB with custom exchange rate: {custom_predicted_price_etb:,.2f} ETB")
+        custom_price_category_etb = categorize_price(custom_predicted_price_etb)
+        
+        # Display the recalculated price consistently
+        st.markdown(f"<h5>Price in ETB with custom exchange rate: {custom_price_category_etb}</h5>", unsafe_allow_html=True)
