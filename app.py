@@ -11,15 +11,14 @@ EXCHANGE_RATE_API_URL = "https://api.exchangerate-api.com/v4/latest/USD"
 try:
     model = joblib.load('vehicle_price_model.joblib')
     preprocessor = joblib.load('preprocessor.joblib')
-    # st.success("Model and Preprocessor Loaded Successfully!") # Not necessary
 except FileNotFoundError:
-    st.error("Error: Model or preprocessor file not found. Please make sure the files 'vehicle_price_model.joblib' and 'preprocessor.joblib' are in the same directory as this script or they are on Google Colab")
+    st.error("Error: Model or preprocessor file not found. Please make sure the files 'vehicle_price_model.joblib' and 'preprocessor.joblib' are in the same directory.")
     st.stop()
 except Exception as e:
     st.error(f"Error loading model or preprocessor: {e}")
     st.stop()
 
-
+# Function to fetch exchange rate
 def get_exchange_rate():
     """Fetches the latest ETB to USD exchange rate from the API."""
     try:
@@ -38,58 +37,53 @@ def get_exchange_rate():
         st.error(f"Unexpected error while fetching the exchange rate: {e}")
         return None
 
-
-# Load data to get unique values for dropdowns
+# Load data for dropdowns
 data = pd.read_csv('VehicleData2.csv')
 data.dropna(subset=[' Price '], inplace=True)  # Ensure no NaN in target column
 data.fillna('Unknown', inplace=True)  # Fill NaN values in other columns
 
-# Fetch the Exchange rate once
+# Fetch the Exchange rate
 etb_to_usd_rate = get_exchange_rate()
 
 if etb_to_usd_rate is None:
-        st.error("Could not retrieve the current exchange rate. Please check your internet connection.")
-        st.stop()
+    st.error("Could not retrieve the current exchange rate. Please check your internet connection.")
+    st.stop()
 
 # UI Elements
 st.title("HKTM Vehicle Price Predictor")
 st.markdown("Select the car features to predict the price.")
-st.write(f"Today's Exchange Rate: 1USD = {etb_to_usd_rate:.2f} ETB")  # Display exchange rate on top
+st.write(f"Today's Exchange Rate: 1 USD = {etb_to_usd_rate:.2f} ETB")  # Display exchange rate on top
 
-
-# Dropdown for Make
+# Dropdowns
 make = st.selectbox("Make", options=sorted(data['Make'].unique()))
-
-# Dynamically update Model options based on selected Make
 filtered_data = data[data['Make'] == make]
 filtered_models = filtered_data['Model'].unique()
 model_name = st.selectbox("Model", options=sorted(filtered_models))
-
-# Dynamically update Fuel options based on selected Make and Model
 filtered_fuels = filtered_data[filtered_data['Model'] == model_name]['Fuel'].unique()
 fuel = st.selectbox("Fuel", options=sorted(filtered_fuels))
-
-# Non-dynamic dropdowns for Year, Transmission, and Condition
 year = st.selectbox("Year", options=sorted(data['Year'].unique(), reverse=True))
 transmission = st.selectbox("Transmission", options=sorted(data['Transmission'].unique()))
 condition = st.selectbox("Condition", options=sorted(data['Condition'].unique()))
 
-
+# Helper functions
 def categorize_price(price_etb):
-    """Categorizes the price into ranges of 100,000 ETB."""
     lower_bound = (price_etb // 100000) * 100000
     upper_bound = lower_bound + 100000
     return f"{lower_bound:,.0f} - {upper_bound:,.0f} ETB"
 
-def categorize_price_usd(price_usd, step = 1000): #Added an optional step value if we want to vary
-    """Categorizes the price into ranges of $1000."""
+def categorize_price_usd(price_usd, step=1000):
     lower_bound = (price_usd // step) * step
     upper_bound = lower_bound + step
     return f"${lower_bound:,.0f} - ${upper_bound:,.0f} USD"
 
+# Persist state for predictions
+if "predicted_price_usd" not in st.session_state:
+    st.session_state.predicted_price_usd = None
+if "predicted_price_etb" not in st.session_state:
+    st.session_state.predicted_price_etb = None
+
 # Predict Button
 if st.button("Predict Price"):
-
     # Create a DataFrame from the input
     input_data = pd.DataFrame({
         'Make': [make],
@@ -99,26 +93,29 @@ if st.button("Predict Price"):
         'Transmission': [transmission],
         'Condition': [condition]
     })
-     # Preprocess the input
+    
     try:
+        # Preprocess the input
         input_processed = preprocessor.transform(input_data)
-    except Exception as e:
-          st.error(f"Error during preprocessing {e}")
 
-
-    # Make the prediction
-    try:
-        predicted_price_etb = model.predict(input_processed)[0]
-        predicted_price_usd = predicted_price_etb / etb_to_usd_rate
-
-         # Categorize the predicted price
-        price_category_etb = categorize_price(predicted_price_etb)
-        price_category_usd = categorize_price_usd(predicted_price_usd)
-
-        # Display the prediction
-        st.write(f"Predicted Price Range: {price_category_etb}  ({price_category_usd})")
-        # Use model accuracy
-        st.write(f"Model Accuracy: 93.80%")  # Hardcoded
+        # Make the prediction
+        st.session_state.predicted_price_etb = model.predict(input_processed)[0]
+        st.session_state.predicted_price_usd = st.session_state.predicted_price_etb / etb_to_usd_rate
 
     except Exception as e:
         st.error(f"Error during prediction: {e}")
+
+# Display results if prediction is made
+if st.session_state.predicted_price_usd is not None:
+    price_category_etb = categorize_price(st.session_state.predicted_price_etb)
+    price_category_usd = categorize_price_usd(st.session_state.predicted_price_usd)
+    
+    st.write(f"Predicted Price Range: {price_category_etb} ({price_category_usd})")
+    st.write(f"Model Accuracy: 93.80%")  # Hardcoded accuracy
+
+    # Custom Exchange Rate Input
+    custom_etb_to_usd = st.number_input("Enter a custom exchange rate (ETB per USD):", min_value=0.0, value=etb_to_usd_rate, step=0.1)
+
+    if st.button("Recalculate with Custom Exchange Rate"):
+        custom_predicted_price_etb = st.session_state.predicted_price_usd * custom_etb_to_usd
+        st.write(f"Price in ETB with custom exchange rate: {custom_predicted_price_etb:,.2f} ETB")
