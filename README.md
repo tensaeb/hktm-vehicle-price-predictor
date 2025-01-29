@@ -8,6 +8,9 @@ https://colab.research.google.com/drive/1lAqZ07kPH3ZGZqifnyw3wRMP_AqLEcN3?usp=sh
 ## Vehicle Price Predictor Colab Code
 https://colab.research.google.com/drive/1SEB1YZ51BcmWGe829gkkEwvTmBpTe0EY?usp=sharing
 
+##Deployed Website for the predictor
+https://hktm-vehicle-price-predictor.onrender.com/
+
 
 ## Overview
 
