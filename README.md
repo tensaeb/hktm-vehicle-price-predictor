@@ -1,9 +1,9 @@
 # HKTM Vehicle Price Predictor
 
 ## GROUP MEMBERS:
-Hermella Lemma			GSE/7621/16<br />
-Kalkidan Kassahun		GSE/7621/16<br />
-Mignote Deresse			GSE/7621/16<br />
+Hermella Lemma			GSE/4034/16<br />
+Kalkidan Kassahun		GSE/9049/16<br />
+Mignote Deresse			GSE/3444/16<br />
 Tensae Befikadu			GSE/7621/16<br />
 Bereket Tamirat			GSR/0935/16<br />
 
