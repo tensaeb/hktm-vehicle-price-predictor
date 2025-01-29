@@ -2,6 +2,13 @@
 
 This repository contains a Streamlit application for predicting vehicle prices in Ethiopian Birr (ETB) and US Dollars (USD). It uses a machine learning model trained on a dataset of vehicle sales.
 
+## Automate car Price from telegram channel Colab Code
+https://colab.research.google.com/drive/1lAqZ07kPH3ZGZqifnyw3wRMP_AqLEcN3?usp=sharing
+
+## Vehicle Price Predictor Colab Code
+https://colab.research.google.com/drive/1SEB1YZ51BcmWGe829gkkEwvTmBpTe0EY?usp=sharing
+
+
 ## Overview
 
 The application allows users to select various car features (Make, Model, Year, Fuel, Transmission, Condition) and then predicts the price range of the vehicle in ETB and USD. The predicted prices are categorized into ranges of 100,000 ETB and $1000 USD for better readability.
