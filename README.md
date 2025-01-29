@@ -1,5 +1,13 @@
 # HKTM Vehicle Price Predictor
 
+## GROUP MEMBERS:
+Hermella Lemma			GSE/7621/16
+Kalkidan Kassahun		GSE/7621/16
+Mignote Deresse			GSE/7621/16
+Tensae Befikadu			GSE/7621/16
+Bereket Tamirat			GSR/0935/16
+
+
 This repository contains a Streamlit application for predicting vehicle prices in Ethiopian Birr (ETB) and US Dollars (USD). It uses a machine learning model trained on a dataset of vehicle sales.
 
 ## Automate car Price from telegram channel Colab Code
