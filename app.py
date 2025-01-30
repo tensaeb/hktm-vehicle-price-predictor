@@ -81,6 +81,14 @@ if "predicted_price_usd" not in st.session_state:
     st.session_state.predicted_price_usd = None
 if "predicted_price_etb" not in st.session_state:
     st.session_state.predicted_price_etb = None
+if "future_predicted_price_etb" not in st.session_state:
+    st.session_state.future_predicted_price_etb = None
+if "custom_future_predicted_price_etb" not in st.session_state:
+    st.session_state.custom_future_predicted_price_etb = None
+
+
+# Future Year Input
+future_year = st.number_input("Enter the year to predict future price:", min_value=2024, value=2025, step=1)
 
 # Predict Button
 if st.button("Predict Price"):
@@ -102,6 +110,17 @@ if st.button("Predict Price"):
         st.session_state.predicted_price_etb = model.predict(input_processed)[0]
         st.session_state.predicted_price_usd = st.session_state.predicted_price_etb / etb_to_usd_rate
 
+        # Future price prediction
+        years_difference = future_year - int(year)
+        if years_difference > 0:
+            growth_rate = 0.05 #5% growth rate
+            st.session_state.future_predicted_price_etb = st.session_state.predicted_price_etb * (1 + growth_rate) ** years_difference
+        else:
+            st.session_state.future_predicted_price_etb = st.session_state.predicted_price_etb
+        
+        #initialise the custom future price
+        st.session_state.custom_future_predicted_price_etb = None
+
     except Exception as e:
         st.error(f"Error during prediction: {e}")
 
@@ -111,7 +130,12 @@ if st.session_state.predicted_price_usd is not None:
     price_category_usd = categorize_price_usd(st.session_state.predicted_price_usd)
     
     # Display the predicted price range consistently
-    st.markdown(f"<h5>Predicted Price Range: {price_category_etb} ({price_category_usd})</h5>", unsafe_allow_html=True)
+    st.markdown(f"<h5>Predicted Current Price Range: {price_category_etb} ({price_category_usd})</h5>", unsafe_allow_html=True)
+
+    if st.session_state.future_predicted_price_etb != None:
+         future_price_category_etb = categorize_price(st.session_state.future_predicted_price_etb)
+         st.markdown(f"<h5>Predicted Future Price in {future_year}: {future_price_category_etb}</h5>", unsafe_allow_html=True)
+
     st.write(f"Model Accuracy: 93.80%")  # Hardcoded accuracy
 
     # Custom Exchange Rate Input
@@ -120,6 +144,11 @@ if st.session_state.predicted_price_usd is not None:
     if st.button("Recalculate with Custom Exchange Rate"):
         custom_predicted_price_etb = st.session_state.predicted_price_usd * custom_etb_to_usd
         custom_price_category_etb = categorize_price(custom_predicted_price_etb)
+
+        if st.session_state.future_predicted_price_etb != None:
+             st.session_state.custom_future_predicted_price_etb =  st.session_state.future_predicted_price_etb / etb_to_usd_rate * custom_etb_to_usd
+             custom_future_price_category_etb = categorize_price(st.session_state.custom_future_predicted_price_etb)
+             st.markdown(f"<h5>Future Price in ETB with custom exchange rate: {custom_future_price_category_etb}</h5>", unsafe_allow_html=True)
         
         # Display the recalculated price consistently
-        st.markdown(f"<h5>Price in ETB with custom exchange rate: {custom_price_category_etb}</h5>", unsafe_allow_html=True)
+        st.markdown(f"<h5>Current Price in ETB with custom exchange rate: {custom_price_category_etb}</h5>", unsafe_allow_html=True)
